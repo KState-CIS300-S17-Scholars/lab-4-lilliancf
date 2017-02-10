@@ -1,0 +1,9 @@
+C:\Users\Lily\Documents\Visual Studio 2015\Projects\aaa CIS 301 Projects\Lab4\Lab4\bin\Debug\Lab4.exe.config
+C:\Users\Lily\Documents\Visual Studio 2015\Projects\aaa CIS 301 Projects\Lab4\Lab4\bin\Debug\Lab4.exe
+C:\Users\Lily\Documents\Visual Studio 2015\Projects\aaa CIS 301 Projects\Lab4\Lab4\bin\Debug\Lab4.pdb
+C:\Users\Lily\Documents\Visual Studio 2015\Projects\aaa CIS 301 Projects\Lab4\Lab4\obj\Debug\Lab4.csprojResolveAssemblyReference.cache
+C:\Users\Lily\Documents\Visual Studio 2015\Projects\aaa CIS 301 Projects\Lab4\Lab4\obj\Debug\Lab4.Form1.resources
+C:\Users\Lily\Documents\Visual Studio 2015\Projects\aaa CIS 301 Projects\Lab4\Lab4\obj\Debug\Lab4.Properties.Resources.resources
+C:\Users\Lily\Documents\Visual Studio 2015\Projects\aaa CIS 301 Projects\Lab4\Lab4\obj\Debug\Lab4.csproj.GenerateResource.Cache
+C:\Users\Lily\Documents\Visual Studio 2015\Projects\aaa CIS 301 Projects\Lab4\Lab4\obj\Debug\Lab4.exe
+C:\Users\Lily\Documents\Visual Studio 2015\Projects\aaa CIS 301 Projects\Lab4\Lab4\obj\Debug\Lab4.pdb
